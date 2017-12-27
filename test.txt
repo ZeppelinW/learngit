@@ -1,3 +1,0 @@
-This is a file in order to test the deleting function of git
-Please enjoy!
---Zepp 
